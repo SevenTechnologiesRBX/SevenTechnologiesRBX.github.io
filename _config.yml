@@ -3,12 +3,12 @@
 # Site settings
 locale: "en-us" # find your locale with `navigator.language` in the console.
 
-title: jekyll-theme-discord # title to be shown under main avatar
-subtitle: A Microblog for Jekyll with Discord-style "DM"s # subtitle to be shown under title
-description: This shows up in search results sometimes and in the RSS feed... # RSS feed and search result description; don't use quotes if you can help it
+title: Artemis # title to be shown under main avatar
+subtitle: A new exploiting experience. # subtitle to be shown under title
+description: Check out Artemis, a promising new exploiting experience. # RSS feed and search result description; don't use quotes if you can help it
 author:
-  name: Some Author # your name
-  email: "name@hosting.email" # email on click (header + footer)
+  name: Created by Seven # your name
+  email: "logiconxbus@gmail.com" # email on click (header + footer)
 avatar:
   path: "/assets/avatar.png" # primary avatar
   circle: true # make avatar a circle
